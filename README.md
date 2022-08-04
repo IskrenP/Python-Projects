@@ -1,5 +1,4 @@
 # Python-Projects
-Tic tac toe:
 # Tic Tac Toe
 
 A python based 2-player Tic Tac Toe game.
